@@ -7,16 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C26B490296A62280021D327 /* LazyHGridTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C26B48F296A62280021D327 /* LazyHGridTest.swift */; };
+		0C26B492296AE93B0021D327 /* Hstakc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C26B491296AE93B0021D327 /* Hstakc.swift */; };
+		0C26B494296BA14E0021D327 /* ListTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C26B493296BA14E0021D327 /* ListTest.swift */; };
+		0C26B496296BD76A0021D327 /* ListTETS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C26B495296BD76A0021D327 /* ListTETS.swift */; };
+		0C30E02F295ADA660010D481 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C30E02E295ADA660010D481 /* SampleData.swift */; };
+		0C30E031295B461E0010D481 /* ColonDelimitedTimeDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C30E030295B461E0010D481 /* ColonDelimitedTimeDivider.swift */; };
+		0C3D79C1295FF04C00C2F741 /* TimeBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3D79C0295FF04C00C2F741 /* TimeBoxView.swift */; };
+		0C3D79C3295FF07800C2F741 /* DraggableTimeBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3D79C2295FF07800C2F741 /* DraggableTimeBoxView.swift */; };
+		0C3D79C5295FFCCC00C2F741 /* DraggableTimeBoxTimeIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3D79C4295FFCCC00C2F741 /* DraggableTimeBoxTimeIndicatorView.swift */; };
+		0C3D79C829607C1F00C2F741 /* DraggableTimeBoxTimeSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3D79C729607C1F00C2F741 /* DraggableTimeBoxTimeSliderView.swift */; };
+		0C3D79CD296111E400C2F741 /* TimeTEST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3D79CC296111E400C2F741 /* TimeTEST.swift */; };
+		0C3D79CF296267C100C2F741 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3D79CE296267C100C2F741 /* SwiftUIView.swift */; };
+		0C3D79D12962718D00C2F741 /* TaskDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3D79D02962718D00C2F741 /* TaskDetailView.swift */; };
+		0C42036B296BFA9900FB114E /* ListBackgound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C42036A296BFA9900FB114E /* ListBackgound.swift */; };
+		0C42036D296C23FA00FB114E /* ScrollViewTEST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C42036C296C23FA00FB114E /* ScrollViewTEST.swift */; };
+		0C420370296EF39F00FB114E /* TaskDetailStepView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C42036F296EF39F00FB114E /* TaskDetailStepView.swift */; };
+		0C420372296F739500FB114E /* TaskDetailTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C420371296F739500FB114E /* TaskDetailTitleView.swift */; };
+		0C420374296F73EC00FB114E /* TaskDetailDateTimeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C420373296F73EC00FB114E /* TaskDetailDateTimeView.swift */; };
+		0C4203762978AFF900FB114E /* DateExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4203752978AFF900FB114E /* DateExtention.swift */; };
+		0C4892E9296A502100235985 /* ButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4892E8296A502100235985 /* ButtonStyles.swift */; };
 		0C7377B02956DD1200B80606 /* dailyCalenderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C7377AF2956DD1200B80606 /* dailyCalenderApp.swift */; };
-		0C7377B22956DD1200B80606 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C7377B12956DD1200B80606 /* ContentView.swift */; };
+		0C7377B22956DD1200B80606 /* DailyCalenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C7377B12956DD1200B80606 /* DailyCalenderView.swift */; };
 		0C7377B42956DD1300B80606 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C7377B32956DD1300B80606 /* Assets.xcassets */; };
 		0C7377B82956DD1300B80606 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C7377B72956DD1300B80606 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C26B48F296A62280021D327 /* LazyHGridTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHGridTest.swift; sourceTree = "<group>"; };
+		0C26B491296AE93B0021D327 /* Hstakc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hstakc.swift; sourceTree = "<group>"; };
+		0C26B493296BA14E0021D327 /* ListTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTest.swift; sourceTree = "<group>"; };
+		0C26B495296BD76A0021D327 /* ListTETS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTETS.swift; sourceTree = "<group>"; };
+		0C30E02E295ADA660010D481 /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
+		0C30E030295B461E0010D481 /* ColonDelimitedTimeDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColonDelimitedTimeDivider.swift; sourceTree = "<group>"; };
+		0C3D79C0295FF04C00C2F741 /* TimeBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeBoxView.swift; sourceTree = "<group>"; };
+		0C3D79C2295FF07800C2F741 /* DraggableTimeBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DraggableTimeBoxView.swift; sourceTree = "<group>"; };
+		0C3D79C4295FFCCC00C2F741 /* DraggableTimeBoxTimeIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DraggableTimeBoxTimeIndicatorView.swift; sourceTree = "<group>"; };
+		0C3D79C729607C1F00C2F741 /* DraggableTimeBoxTimeSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DraggableTimeBoxTimeSliderView.swift; sourceTree = "<group>"; };
+		0C3D79CC296111E400C2F741 /* TimeTEST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeTEST.swift; sourceTree = "<group>"; };
+		0C3D79CE296267C100C2F741 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		0C3D79D02962718D00C2F741 /* TaskDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetailView.swift; sourceTree = "<group>"; };
+		0C42036A296BFA9900FB114E /* ListBackgound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBackgound.swift; sourceTree = "<group>"; };
+		0C42036C296C23FA00FB114E /* ScrollViewTEST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewTEST.swift; sourceTree = "<group>"; };
+		0C42036F296EF39F00FB114E /* TaskDetailStepView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetailStepView.swift; sourceTree = "<group>"; };
+		0C420371296F739500FB114E /* TaskDetailTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetailTitleView.swift; sourceTree = "<group>"; };
+		0C420373296F73EC00FB114E /* TaskDetailDateTimeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetailDateTimeView.swift; sourceTree = "<group>"; };
+		0C4203752978AFF900FB114E /* DateExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtention.swift; sourceTree = "<group>"; };
+		0C4892E8296A502100235985 /* ButtonStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyles.swift; sourceTree = "<group>"; };
 		0C7377AC2956DD1200B80606 /* dailyCalender.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dailyCalender.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C7377AF2956DD1200B80606 /* dailyCalenderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dailyCalenderApp.swift; sourceTree = "<group>"; };
-		0C7377B12956DD1200B80606 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0C7377B12956DD1200B80606 /* DailyCalenderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyCalenderView.swift; sourceTree = "<group>"; };
 		0C7377B32956DD1300B80606 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C7377B52956DD1300B80606 /* dailyCalender.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = dailyCalender.entitlements; sourceTree = "<group>"; };
 		0C7377B72956DD1300B80606 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -33,9 +73,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0C3D79BF295FF02A00C2F741 /* Calender */ = {
+			isa = PBXGroup;
+			children = (
+				0C30E02E295ADA660010D481 /* SampleData.swift */,
+				0C7377B12956DD1200B80606 /* DailyCalenderView.swift */,
+				0C30E030295B461E0010D481 /* ColonDelimitedTimeDivider.swift */,
+				0C3D79C92960ADA300C2F741 /* TimeBox */,
+			);
+			path = Calender;
+			sourceTree = "<group>";
+		};
+		0C3D79C6295FFCFC00C2F741 /* DraggableTimeBox */ = {
+			isa = PBXGroup;
+			children = (
+				0C3D79C2295FF07800C2F741 /* DraggableTimeBoxView.swift */,
+				0C3D79C4295FFCCC00C2F741 /* DraggableTimeBoxTimeIndicatorView.swift */,
+				0C3D79C729607C1F00C2F741 /* DraggableTimeBoxTimeSliderView.swift */,
+			);
+			path = DraggableTimeBox;
+			sourceTree = "<group>";
+		};
+		0C3D79C92960ADA300C2F741 /* TimeBox */ = {
+			isa = PBXGroup;
+			children = (
+				0C3D79C0295FF04C00C2F741 /* TimeBoxView.swift */,
+				0C3D79CC296111E400C2F741 /* TimeTEST.swift */,
+				0C3D79C6295FFCFC00C2F741 /* DraggableTimeBox */,
+			);
+			path = TimeBox;
+			sourceTree = "<group>";
+		};
+		0C42036E296EDE3F00FB114E /* TaskDetail */ = {
+			isa = PBXGroup;
+			children = (
+				0C3D79D02962718D00C2F741 /* TaskDetailView.swift */,
+				0C420371296F739500FB114E /* TaskDetailTitleView.swift */,
+				0C420373296F73EC00FB114E /* TaskDetailDateTimeView.swift */,
+				0C42036F296EF39F00FB114E /* TaskDetailStepView.swift */,
+			);
+			path = TaskDetail;
+			sourceTree = "<group>";
+		};
 		0C7377A32956DD1200B80606 = {
 			isa = PBXGroup;
 			children = (
+				0C42036C296C23FA00FB114E /* ScrollViewTEST.swift */,
+				0C42036A296BFA9900FB114E /* ListBackgound.swift */,
+				0C26B491296AE93B0021D327 /* Hstakc.swift */,
+				0C26B48F296A62280021D327 /* LazyHGridTest.swift */,
+				0C26B493296BA14E0021D327 /* ListTest.swift */,
+				0C26B495296BD76A0021D327 /* ListTETS.swift */,
+				0C3D79CE296267C100C2F741 /* SwiftUIView.swift */,
 				0C7377AE2956DD1200B80606 /* dailyCalender */,
 				0C7377AD2956DD1200B80606 /* Products */,
 			);
@@ -52,8 +141,11 @@
 		0C7377AE2956DD1200B80606 /* dailyCalender */ = {
 			isa = PBXGroup;
 			children = (
+				0C4203752978AFF900FB114E /* DateExtention.swift */,
 				0C7377AF2956DD1200B80606 /* dailyCalenderApp.swift */,
-				0C7377B12956DD1200B80606 /* ContentView.swift */,
+				0C4892E8296A502100235985 /* ButtonStyles.swift */,
+				0C42036E296EDE3F00FB114E /* TaskDetail */,
+				0C3D79BF295FF02A00C2F741 /* Calender */,
 				0C7377B32956DD1300B80606 /* Assets.xcassets */,
 				0C7377B52956DD1300B80606 /* dailyCalender.entitlements */,
 				0C7377B62956DD1300B80606 /* Preview Content */,
@@ -139,7 +231,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C7377B22956DD1200B80606 /* ContentView.swift in Sources */,
+				0C26B494296BA14E0021D327 /* ListTest.swift in Sources */,
+				0C3D79C5295FFCCC00C2F741 /* DraggableTimeBoxTimeIndicatorView.swift in Sources */,
+				0C42036B296BFA9900FB114E /* ListBackgound.swift in Sources */,
+				0C4892E9296A502100235985 /* ButtonStyles.swift in Sources */,
+				0C3D79C3295FF07800C2F741 /* DraggableTimeBoxView.swift in Sources */,
+				0C3D79CD296111E400C2F741 /* TimeTEST.swift in Sources */,
+				0C26B496296BD76A0021D327 /* ListTETS.swift in Sources */,
+				0C30E031295B461E0010D481 /* ColonDelimitedTimeDivider.swift in Sources */,
+				0C420374296F73EC00FB114E /* TaskDetailDateTimeView.swift in Sources */,
+				0C3D79CF296267C100C2F741 /* SwiftUIView.swift in Sources */,
+				0C3D79D12962718D00C2F741 /* TaskDetailView.swift in Sources */,
+				0C3D79C829607C1F00C2F741 /* DraggableTimeBoxTimeSliderView.swift in Sources */,
+				0C4203762978AFF900FB114E /* DateExtention.swift in Sources */,
+				0C3D79C1295FF04C00C2F741 /* TimeBoxView.swift in Sources */,
+				0C26B492296AE93B0021D327 /* Hstakc.swift in Sources */,
+				0C7377B22956DD1200B80606 /* DailyCalenderView.swift in Sources */,
+				0C26B490296A62280021D327 /* LazyHGridTest.swift in Sources */,
+				0C42036D296C23FA00FB114E /* ScrollViewTEST.swift in Sources */,
+				0C420372296F739500FB114E /* TaskDetailTitleView.swift in Sources */,
+				0C420370296EF39F00FB114E /* TaskDetailStepView.swift in Sources */,
+				0C30E02F295ADA660010D481 /* SampleData.swift in Sources */,
 				0C7377B02956DD1200B80606 /* dailyCalenderApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +400,8 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -326,6 +440,8 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

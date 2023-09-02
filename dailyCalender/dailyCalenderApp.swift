@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct dailyCalenderApp: App {
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DailyCalenderView()
+                .environmentObject(TimeBoxState())
         }
     }
 }
